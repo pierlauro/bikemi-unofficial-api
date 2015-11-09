@@ -8,3 +8,6 @@ Restituisce un JSON contenente le seguenti informazioni per ogni stazione:
 * Biciclette elettriche disponibili
 * Stalli liberi
 * Latitudine e longitudine
+
+
+Per utilizzarlo è possibile servirsi dello scraper inizializzato su [morph.io](https://morph.io/pierlauro/bikemi-unofficial-api)
