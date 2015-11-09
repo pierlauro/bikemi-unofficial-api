@@ -1,4 +1,4 @@
-# Bikemi Unofficial API
+# BikeMI Unofficial API
 Script di estrazione dati del bike sharing del comune di Milano.
 
 Restituisce un JSON contenente le seguenti informazioni per ogni stazione:
@@ -10,4 +10,4 @@ Restituisce un JSON contenente le seguenti informazioni per ogni stazione:
 * Latitudine e longitudine
 
 
-Per utilizzarlo è possibile servirsi dello scraper inizializzato su [morph.io](https://morph.io/pierlauro/bikemi-unofficial-api)
+Per utilizzarlo è possibile servirsi dello scraper inizializzato su [morph.io](https://morph.io/pierlauro/bikemi-unofficial-api) (attenzione: il run su morph deve avvenire manualmente - scaricare localmente per richieste real-time)
