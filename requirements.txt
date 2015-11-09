@@ -1,2 +1,4 @@
 # pip install -r requirements.txt
-scraperwiki>=0.3.2
+
+# morph.io version of scraperwiki library
+-e git+http://github.com/openaustralia/scraperwiki-python.git@morph_defaults#egg=scraperwiki
